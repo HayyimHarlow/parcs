@@ -1,4 +1,4 @@
-# PARCS: Phased‑Array Radiance‑Channel Sensing
+# PARCS: Phased‑Array Radiance‑Channel Sensing (Patents under file or Pending)
 
 PARCS: Phased‑Array Radiance‑Channel Sensing
 A Stand‑Alone Multi‑Version Association Operator for Contested‑Airspace Autonomy
@@ -71,6 +71,8 @@ Streaming Mode — real‑time association
 
 Scaling Analysis — runtime, entropy, stability variance
 
+
+
 License
 PARCS Phased‑Array Radiance‑Channel Sensing 
 Copyright (c) 2026
@@ -96,7 +98,6 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 Citation:  If you use PARCS in academic or technical work, please cite:
 
-Code
 Harlow, J. (2026).
 PARCS: Phased‑Array Radiance‑Channel Sensing (v1–v3).
 Hadron Quantum Technologies Corp.
