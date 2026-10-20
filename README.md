@@ -17,6 +17,8 @@ The PARCS operator family (v1, v2, v3) provides deterministic, temporal‑semant
 
 PARCS is fully self‑contained and does not require the SU(8) radiance‑channel framework or GRMHDsu8 geometry to operate.
 
+A special note of "Thank You" to Jozsef Fodor.  Jozsef has kindly dedicated no small amount of time to critiquing PARCS v1, v2 and v3.  PARCS v4; PARCS v5 will be available in the next few days for peer review as well.
+
 ##PARCS Versions
 **PARCS v1 — Deterministic Baseline Operator**
 A minimal, deterministic association pipeline.
